@@ -1,0 +1,56 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+ 
+ div
+ {
+ width: 15%;
+ height:50px;
+ color: white;
+ font-family:initial;
+ text-align: center;
+ padding-top: 2%;
+ border: 2px solid green;
+ background-color: green;
+ }
+ div:hover
+ {
+   width: 19%;
+ height:55px;
+ color: white;
+ font-family:initial;
+ text-align: center;
+  padding-top: 2%;
+ border: 2px solid greenyellow;
+ background-color: greenyellow;
+ }
+  
+ a{
+         text-decoration:none ;
+ }
+  
+ 
+ table
+ {
+   border-bottom: 1px solid black;
+   border-collapse: collapse;
+   width: 90%;
+ }
+ td
+ {
+     width: 18%;
+     color: rosybrown;
+     padding: 1%;
+     padding-left:5%;
+      border-bottom: 1px solid black;
+   border-collapse: collapse;
+ }
+ th
+ {  
+       
+       border-bottom: 3px solid black;
+       color: teal;
+       padding: 1%;
+       padding-right: 5%;
+ }
